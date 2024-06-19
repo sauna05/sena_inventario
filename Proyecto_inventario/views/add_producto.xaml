@@ -1,0 +1,33 @@
+﻿<Window x:Class="Proyecto_inventario.views.add_producto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto_inventario.views"
+        mc:Ignorable="d"
+        Title="add_producto" Height="450" Width="800">
+    <Grid Margin="243,20,204,5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+
+        </Grid.RowDefinitions>
+        <ComboBox Name="persona_encargada" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" Width="120" Grid.Column="1" SelectionChanged="persona_encargada_SelectionChanged"/>
+        <TextBox x:Name="codigo_txt" HorizontalAlignment="Center" TextWrapping="Wrap"  VerticalAlignment="Center" Width="120"/>
+        <ComboBox Name="categoria" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120" Grid.Row="1" SelectionChanged="categoria_SelectionChanged_1"/>
+        <ComboBox Name="estado" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Width="120" SelectionChanged="estado_SelectionChanged"/>
+        <TextBox x:Name="txt_cantidad" HorizontalAlignment="Center" Margin="0,18,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Grid.Row="2" Grid.Column="1"/>
+        <TextBox x:Name="txt_nombre" HorizontalAlignment="Center" TextWrapping="Wrap"  VerticalAlignment="Center" Width="120" Grid.Column="1"/>
+        <Button Name="btn_add" Content="Agregar" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="0,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="176" Click="btn_add_Click" />
+    </Grid>
+</Window>

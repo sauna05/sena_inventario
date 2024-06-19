@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|c:\\users\\user\\source\\repos\\proyecto_inventario\\proyecto_inventario\\views\\editar_elementos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|solutionrelative:proyecto_inventario\\views\\editar_elementos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|c:\\users\\user\\source\\repos\\proyecto_inventario\\proyecto_inventario\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|solutionrelative:proyecto_inventario\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|c:\\users\\user\\source\\repos\\proyecto_inventario\\proyecto_inventario\\views\\add_producto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|solutionrelative:proyecto_inventario\\views\\add_producto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|c:\\users\\user\\source\\repos\\proyecto_inventario\\proyecto_inventario\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|solutionrelative:proyecto_inventario\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|c:\\users\\user\\source\\repos\\proyecto_inventario\\proyecto_inventario\\views\\editar_elementos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|solutionrelative:proyecto_inventario\\views\\editar_elementos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|c:\\users\\user\\source\\repos\\proyecto_inventario\\proyecto_inventario\\views\\add_producto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DA5FF47-433B-4D63-A83D-B92D759E9358}|Proyecto_inventario\\Proyecto_inventario.csproj|solutionrelative:proyecto_inventario\\views\\add_producto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "add_producto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\add_producto.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto_inventario\\views\\add_producto.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\add_producto.xaml.cs",
+              "RelativeToolTip": "Proyecto_inventario\\views\\add_producto.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:01:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "add_producto.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\add_producto.xaml",
+              "RelativeDocumentMoniker": "Proyecto_inventario\\views\\add_producto.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\add_producto.xaml",
+              "RelativeToolTip": "Proyecto_inventario\\views\\add_producto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-19T00:01:43.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "editar_elementos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\editar_elementos.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto_inventario\\views\\editar_elementos.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\editar_elementos.xaml.cs",
+              "RelativeToolTip": "Proyecto_inventario\\views\\editar_elementos.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:52:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "editar_elementos.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\editar_elementos.xaml",
+              "RelativeDocumentMoniker": "Proyecto_inventario\\views\\editar_elementos.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\editar_elementos.xaml",
+              "RelativeToolTip": "Proyecto_inventario\\views\\editar_elementos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T23:51:03.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Proyecto_inventario\\views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\MainWindow.xaml",
+              "RelativeToolTip": "Proyecto_inventario\\views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T18:55:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto_inventario\\views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Proyecto_inventario\\Proyecto_inventario\\views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Proyecto_inventario\\views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwJQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T18:55:29.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
